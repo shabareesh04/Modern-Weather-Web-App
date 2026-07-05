@@ -8,11 +8,11 @@ A fully responsive, beautifully animated weather application built with HTML, CS
 - **Real-time Weather Information**: Current temperature, humidity, wind speed, and more
 - **Air Quality Index (AQI)**: Color-coded air quality monitoring
 - **Feels Like Temperature**: Perceived temperature display
-- **Wind Direction**: Animated wind direction indicator
+- **Wind Direction**: Animated wind direction indicators
 - **Pressure & Visibility**: Atmospheric pressure and visibility metrics
 - **UV Index**: Simulated UV index with gauge display
-- **Sunrise/Sunset Times**: Local sunrise and sunset information
-- **Local Time Display**: Real-time clock showing the searched city's local time
+- **Sunrise/Sunset Times**: Local sunrise and sunset informations
+- **Local Time Display**: Real-time clock showing the searched city's local time.
 
 ### 🎨 Modern UI/UX
 - **Glassmorphism Design**: Frosted glass effect on all cards
